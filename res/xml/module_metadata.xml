@@ -9,8 +9,8 @@
     <module isHidden="true" name="@string/module_cellbroadcast" packageName="com.android.cellbroadcast" />
     <module isHidden="true" name="@string/module_conscrypt" packageName="com.android.conscrypt" />
     <module isHidden="false" name="@string/module_documentsui" packageName="com.android.documentsui" />
-    <module isHidden="true" name="@string/module_ext_services" packageName="com.google.android.ext.services" />
-    <module isHidden="true" name="@string/module_ext_services_apex" packageName="com.google.android.extservices" />
+    <module isHidden="true" name="@string/module_ext_services" packageName="android.ext.services" />
+    <module isHidden="true" name="@string/module_ext_services_apex" packageName="android.ext.services" />
     <module isHidden="true" name="@string/module_ipsec" packageName="com.android.ipsec" />
     <module isHidden="true" name="@string/module_libs" packageName="com.mainline.primary.libs" />
     <module isHidden="true" name="@string/module_media" packageName="com.android.media" />
